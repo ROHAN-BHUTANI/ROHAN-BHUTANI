@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ROHAN-BHUTANI
 - 👀 I’m interested in PUBLIC SPEAKING AND CODING
-- 🌱 I’m currently learning CODING
-- 💞️ I’m looking to collaborate on MICROSOFT
-- 📫 How to reach me CALL ME
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on MNCs
+- 📫 How to reach me CODE FOR ME
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
